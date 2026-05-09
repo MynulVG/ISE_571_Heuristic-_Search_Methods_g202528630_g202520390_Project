@@ -1,1 +1,1 @@
-# ISE_571_Heuristic-_Search_Methods_Project
+# ISE_571_Heuristic_Search_Methods_Project
